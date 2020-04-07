@@ -22,7 +22,7 @@ spec:
           nodegroup-type: api-workers
       # hostNetwork: true
       containers:
-      - image: 048815747800.dkr.ecr.us-east-1.amazonaws.com/magic-losapp:9a53032
+      - image: 048815747800.dkr.ecr.us-east-1.amazonaws.com/magic-losapp:6ca4f22
         resources:
           limits:
             cpu: "500m"
